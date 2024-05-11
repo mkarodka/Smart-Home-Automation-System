@@ -4,6 +4,7 @@
 
 This Git repository contains the codebase for a Smart Home Automation System. The system aims to automate household management tasks and provide users with notifications based on predefined rules and events.
 This project is a database management system (DBMS) project that explores various SQL queries and demonstrates their implementation within a relational database management system. The project encompasses the design of a database schema for a smart home automation system, along with the creation of tables, insertion of sample data, and execution of SQL queries to perform data manipulation and retrieval operations.
+SQL script provided in this repository for this project will give more details.
 
 # Features:
 
