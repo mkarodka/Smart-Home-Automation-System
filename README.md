@@ -6,13 +6,30 @@ This Git repository contains the codebase for a Smart Home Automation System. Th
 This project is a database management system (DBMS) project that explores various SQL queries and demonstrates their implementation within a relational database management system. The project encompasses the design of a database schema for a smart home automation system, along with the creation of tables, insertion of sample data, and execution of SQL queries to perform data manipulation and retrieval operations.
 SQL script provided in this repository for this project will give more details.
 
-# Features:
+# Business Description:
+The project aims to revolutionize the way homeowners manage and interact with their smart home devices. We are developing a Smart Home Automation System that centralizes device control, automation, and monitoring into a user-friendly platform. Our goal is to enhance the convenience, energy efficiency, and security of homes through intelligent automation.
 
-User Management: Users can create accounts and manage their personal information.<br>
-House Management: Users can add and manage houses, including details like address and room setup.<br>
-Room and Device Management: Users can configure rooms within their houses and add devices to control.<br>
-Automation Rules: Users can define rules for automating device actions based on specified conditions.<br>
-Event Notifications: Users receive notifications for events such as motion detection or temperature changes.<br>
+# Problem Statement:
+With the proliferation of smart home devices, homeowners often face challenges in managing and coordinating these devices effectively. Users need a unified platform to control and automate devices seamlessly. Current solutions lack the ability to provide a centralized control system for diverse smart devices.
+
+# Proposed Solution:
+We propose the development of a Smart Home Automation System with the following features:
+•	User Management: Allow users to register, create profiles, and manage their smart homes.<br>
+•	Device Integration: Support a wide range of smart devices, including lights, thermostats, cameras, and sensors<br>
+•	Device Control: Enable users to control devices individually or in groups<br>
+•	Automation Rules: Allow users to create custom automation rules based on triggers and actions.<br>
+•	Event Notifications: Provide real-time event notifications (e.g., motion detection, door openings)<br>
+•	Energy Efficiency: Offer insights into device usage patterns to help users optimize energy consumption<br>
+•	User-Friendly Interface: Develop a responsive and intuitive user interface for web and mobile devices<br>
+
+# Target Users:
+Our Smart Home Automation System is designed for:
+•	Homeowners and renters with smart home devices
+•	Individuals looking to enhance energy efficiency and security in their homes
+•	Tech-savvy users interested in home automation.
+
+![image](https://github.com/mkarodka/Smart-Home-Automation-System/assets/108047751/1b338641-d117-4c2f-b535-b470d2021b9c)
+
 
 
 # ER-Data Requirement
