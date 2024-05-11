@@ -24,8 +24,8 @@ We propose the development of a Smart Home Automation System with the following 
 
 # Target Users:
 Our Smart Home Automation System is designed for:
-•	Homeowners and renters with smart home devices<br>
-•	Individuals looking to enhance energy efficiency and security in their homes<br>
+•	Homeowners and renters with smart home devices.<br>
+•	Individuals looking to enhance energy efficiency and security in their homes.<br>
 •	Tech-savvy users interested in home automation.<br>
 
 # ER-Data Requirement
