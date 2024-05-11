@@ -24,13 +24,9 @@ We propose the development of a Smart Home Automation System with the following 
 
 # Target Users:
 Our Smart Home Automation System is designed for:
-•	Homeowners and renters with smart home devices
-•	Individuals looking to enhance energy efficiency and security in their homes
-•	Tech-savvy users interested in home automation.
-
-![image](https://github.com/mkarodka/Smart-Home-Automation-System/assets/108047751/1b338641-d117-4c2f-b535-b470d2021b9c)
-
-
+•	Homeowners and renters with smart home devices<br>
+•	Individuals looking to enhance energy efficiency and security in their homes<br>
+•	Tech-savvy users interested in home automation.<br>
 
 # ER-Data Requirement
 The system's data structure includes entities such as User, House, Room, Device, Automation Rule, Event Notification, and Event Type, each with specific attributes and relationships.
