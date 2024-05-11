@@ -4,11 +4,11 @@ This Git repository contains the codebase for a Smart Home Automation System. Th
 
 Features:
 
-User Management: Users can create accounts and manage their personal information.
-House Management: Users can add and manage houses, including details like address and room setup.
-Room and Device Management: Users can configure rooms within their houses and add devices to control.
-Automation Rules: Users can define rules for automating device actions based on specified conditions.
-Event Notifications: Users receive notifications for events such as motion detection or temperature changes.
+User Management: Users can create accounts and manage their personal information.<br>
+House Management: Users can add and manage houses, including details like address and room setup.<br>
+Room and Device Management: Users can configure rooms within their houses and add devices to control.<br>
+Automation Rules: Users can define rules for automating device actions based on specified conditions.<br>
+Event Notifications: Users receive notifications for events such as motion detection or temperature changes.<br>
 
 
 # ER-Data Requirement
