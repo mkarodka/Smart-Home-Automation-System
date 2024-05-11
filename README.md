@@ -23,7 +23,7 @@ We propose the development of a Smart Home Automation System with the following 
 •	User-Friendly Interface: Develop a responsive and intuitive user interface for web and mobile devices<br>
 
 # Target Users:
-Our Smart Home Automation System is designed for:
+Our Smart Home Automation System is designed for:<br>
 •	Homeowners and renters with smart home devices.<br>
 •	Individuals looking to enhance energy efficiency and security in their homes.<br>
 •	Tech-savvy users interested in home automation.<br>
