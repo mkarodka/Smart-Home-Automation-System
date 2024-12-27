@@ -13,7 +13,7 @@ The project aims to revolutionize the way homeowners manage and interact with th
 With the proliferation of smart home devices, homeowners often face challenges in managing and coordinating these devices effectively. Users need a unified platform to control and automate devices seamlessly. Current solutions lack the ability to provide a centralized control system for diverse smart devices.
 
 # Proposed Solution:
-We propose the development of a Smart Home Automation System with the following features:
+We propose the development of a Smart Home Automation System with the following features:<br>
 •	User Management: Allow users to register, create profiles, and manage their smart homes.<br>
 •	Device Integration: Support a wide range of smart devices, including lights, thermostats, cameras, and sensors<br>
 •	Device Control: Enable users to control devices individually or in groups<br>
